@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig
+//  CurrencyExchange
+//
+//  Created by Sally Wang on 10/21/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+ACCESS_KEY = 690bfe70962ccc817d91a71448a49ecb
+BASE_URL = api.exchangeratesapi.io/v1/latest
